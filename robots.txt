@@ -1,6 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /404.html
+Disallow: /pages/
 Sitemap: https://samily.it/sitemap.xml
-Disallow: 
-/404.html
-/pages/
